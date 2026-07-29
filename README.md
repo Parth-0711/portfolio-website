@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Portfolio Website
 
 A modern and responsive portfolio website built using React.js, Vite, Tailwind CSS, and Framer Motion to showcase my skills, projects, certifications, experience, and contact information.
 
