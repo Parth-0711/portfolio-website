@@ -64,7 +64,7 @@ const About = () => {
                     CGPA
                   </span>
                   <p className="text-gray-700 mt-1">
-                    7.37
+                    7.54
                   </p>
                 </div>
 
