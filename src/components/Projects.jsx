@@ -27,7 +27,7 @@ const projects = [
     "Machine learning-based electricity bill prediction system that analyzes household power consumption data to forecast monthly electricity costs and identify usage patterns.",
   tech: ["Python", "Pandas", "NumPy", "Scikit-Learn", "Jupyter Notebook"],
   github: "https://github.com/your-username/electricity-bill-prediction",
-  demo: "https://electricity-bill-predictor.vercel.app/",
+  demo: "https://electricity-bill-predictor.vercel.app",
   },
   {
     title: "QuickAI",
