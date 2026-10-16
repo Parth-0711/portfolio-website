@@ -22,6 +22,14 @@ const projects = [
     demo: "#",
   },
   {
+  title: "Electricity Bill Prediction",
+  description:
+    "Machine learning-based electricity bill prediction system that analyzes household power consumption data to forecast monthly electricity costs and identify usage patterns.",
+  tech: ["Python", "Pandas", "NumPy", "Scikit-Learn", "Jupyter Notebook"],
+  github: "https://github.com/your-username/electricity-bill-prediction",
+  demo: "https://electricity-bill-predictor.vercel.app",
+  },
+  {
     title: "QuickAI",
     description:
       "AI SaaS platform integrating Gemini API with authentication, cloud storage, and intelligent content generation.",
