@@ -5,6 +5,22 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projects = [
   {
+    title: "ExpenseTracker",
+    description:
+      "Full-stack personal expense management app built with the MERN stack, featuring secure JWT authentication, expense CRUD operations, category-wise Recharts visualizations, and one-click Excel export of transaction history.",
+    tech: ["MongoDB", "Express.js", "React.js", "Node.js", "JWT", "Recharts", "Tailwind CSS"],
+    github: "#",
+    demo: "https://expense-tracker-9k8o.vercel.app/login",
+  },
+  {
+    title: "TripWise-AI Travel Agent",
+    description:
+      "AI-powered travel agent built with Java, Spring Boot, and Spring AI that answers natural-language travel queries about flights, hotels, and weather using Gemini tool calling, with saved itineraries stored in MySQL.",
+    tech: ["Java", "Spring Boot", "Spring AI", "Gemini API", "MySQL"],
+    github: "#",
+    demo: "https://drive.google.com/file/d/1eqtEWVE0_FvqLZK_A-JRo-m5kK1upqy6/view?usp=drive_link",
+  },
+  {
     title: "BrezzyDrive Rentals",
     description:
       "Full-stack car rental platform built using the MERN stack, enabling users to browse vehicles, view car information,and access a seamless rental experience through a modern responsive interface.",
@@ -28,14 +44,6 @@ const projects = [
   tech: ["Python", "Pandas", "NumPy", "Scikit-Learn", "Jupyter Notebook"],
   github: "https://github.com/your-username/electricity-bill-prediction",
   demo: "https://electricity-bill-predictor.vercel.app",
-  },
-  {
-    title: "QuickAI",
-    description:
-      "AI SaaS platform integrating Gemini API with authentication, cloud storage, and intelligent content generation.",
-    tech: ["React", "Node.js", "Express", "Gemini API"],
-    github: "https://github.com/Parth-0711/QuickAI",
-    demo: "#",
   },
 ];
 
